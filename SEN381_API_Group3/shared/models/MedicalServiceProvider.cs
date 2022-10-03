@@ -6,13 +6,7 @@ public class MedicalServiceProvider
     private String policyProviderStatus;
 
 
-   public MedicalServiceProvider()
-    {
-    }
-
-
-
-   public MedicalServiceProvider(String policyProviderID, String policyProviderName, String policyProviderAddresses, String policyProviderStatus,  )
+   public MedicalServiceProvider(String policyProviderID, String policyProviderName, String policyProviderAddresses, String policyProviderStatus)
     {
         this.policyProviderID = policyProviderID;
         this.policyProviderName = policyProviderName;  

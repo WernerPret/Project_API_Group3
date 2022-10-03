@@ -5,6 +5,5 @@ public class Policy
     private String policyId;
     private String policyName;
     private String policyStatus;
-    private PolicyProvider policyProvider;
     private Package[] package;
 }

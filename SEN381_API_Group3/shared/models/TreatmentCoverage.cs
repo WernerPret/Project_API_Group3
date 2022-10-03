@@ -7,6 +7,7 @@ public abstract class TreatmentCoverage
     int numberOfGeneralVisits;
     int numberOfSpecialistsVisits;
 
+
     protected TreatmentCoverage(string coverageID, string coverageDescription, int numberOfGeneralVisits, int numberOfSpecialistsVisits)
     {
         this.coverageID = coverageID;
@@ -14,10 +15,7 @@ public abstract class TreatmentCoverage
         this.numberOfGeneralVisits = numberOfGeneralVisits;
         this.numberOfSpecialistsVisits = numberOfSpecialistsVisits;
     }
-    protected TreatmentCoverage()
-    {
-        //Used to set default values in child classes
-    }
+    
 
     public string CoverageID { get => coverageID; set => coverageID = value; }
     public string CoverageDescription { get => coverageDescription; set => coverageDescription = value; }

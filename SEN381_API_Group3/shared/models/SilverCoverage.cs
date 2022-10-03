@@ -6,8 +6,5 @@ public class SilverCoverage : TreatmentCoverage
     {
     }
 
-    public SilverCoverage() : base()
-    {
-        //Set default values
-    }
+    
 }
