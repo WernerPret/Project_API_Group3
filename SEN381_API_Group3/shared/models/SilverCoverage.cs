@@ -2,8 +2,12 @@
 
 public class SilverCoverage : TreatmentCoverage
 {
-    public SilverCoverage(string coverageID, string coverageDescription, int numberOfGeneralVisits, int numberOfSpecialistsVisits) : base(coverageID, coverageDescription, numberOfGeneralVisits, numberOfSpecialistsVisits)
+    public SilverCoverage()
     {
+        this.CoverageID = "";
+        this.CoverageDescription = "";
+        this.NumberOfGeneralVisits = 0;
+        this.NumberOfSpecialistsVisits = 0;//Default values to be defined later
     }
 
     

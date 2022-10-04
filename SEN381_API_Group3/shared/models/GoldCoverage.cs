@@ -2,12 +2,12 @@
 
 public class GoldCoverage : TreatmentCoverage
 {
-    public GoldCoverage(string coverageID, string coverageDescription, int numberOfGeneralVisits, int numberOfSpecialistsVisits) : base(coverageID, coverageDescription, numberOfGeneralVisits, numberOfSpecialistsVisits)
-    {
-           
-    }
     public GoldCoverage() : base()
     {
-        //Set default values
+        this.CoverageID = "";
+        this.CoverageDescription = "";
+        this.NumberOfGeneralVisits = 0;
+        this.NumberOfSpecialistsVisits = 0;//Default values to be defined later
+
     }
 }

@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SEN381_API_Group3
 build_property.RootNamespace = SEN381_API_Group3
-build_property.ProjectDir = c:\Users\werne\OneDrive\Desktop\Belgium Campus\3rd Year\SEN381\Project\Project_API_Group3\SEN381_API_Group3\
+build_property.ProjectDir = C:\Uni\Uni\SEN\Project\SEN381_API_Group3\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\werne\OneDrive\Desktop\Belgium Campus\3rd Year\SEN381\Project\Project_API_Group3\SEN381_API_Group3
+build_property.MSBuildProjectDirectory = C:\Uni\Uni\SEN\Project\SEN381_API_Group3
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/werne/OneDrive/Desktop/Belgium Campus/3rd Year/SEN381/Project/Project_API_Group3/SEN381_API_Group3/_Imports.razor]
+[C:/Uni/Uni/SEN/Project/SEN381_API_Group3/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/werne/OneDrive/Desktop/Belgium Campus/3rd Year/SEN381/Project/Project_API_Group3/SEN381_API_Group3/Component1.razor]
+[C:/Uni/Uni/SEN/Project/SEN381_API_Group3/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-iasibehtvy

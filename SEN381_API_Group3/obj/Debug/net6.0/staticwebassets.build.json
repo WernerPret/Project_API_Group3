@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "FTGyiWUAHOiSY+T8zT7vIDSAnGK4OyJlhbA4o5jVxSc=",
+  "Source": "SEN381_API_Group3",
+  "BasePath": "_content/SEN381_API_Group3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SEN381_API_Group3\\wwwroot",
+      "Source": "SEN381_API_Group3",
+      "ContentRoot": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\wwwroot\\",
+      "BasePath": "_content/SEN381_API_Group3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SEN381_API_Group3.styles.css",
+      "SourceId": "SEN381_API_Group3",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SEN381_API_Group3",
+      "RelativePath": "SEN381_API_Group3.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SEN381_API_Group3.styles.css"
+    },
+    {
+      "Identity": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SEN381_API_Group3.bundle.scp.css",
+      "SourceId": "SEN381_API_Group3",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SEN381_API_Group3",
+      "RelativePath": "SEN381_API_Group3.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SEN381_API_Group3.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\wwwroot\\background.png",
+      "SourceId": "SEN381_API_Group3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\wwwroot\\",
+      "BasePath": "_content/SEN381_API_Group3",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "SEN381_API_Group3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\wwwroot\\",
+      "BasePath": "_content/SEN381_API_Group3",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

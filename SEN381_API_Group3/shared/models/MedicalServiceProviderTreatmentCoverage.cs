@@ -17,6 +17,6 @@ public class MedicalServiceProvidorTreatmentCoverage
 
     public string MSPTCID1 { get => MSPTCID; set => MSPTCID = value; }
     public TreatmentCoverage TreatmentCoverage1 { get => TreatmentCoverage; set => TreatmentCoverage = value; }
-    public MedicalServiceProvider MedicalServiceProvidor { get => medicalServiceProvidor; set => medicalServiceProvidor = value; }
+    public MedicalServiceProvider MedicalServiceProvidor { get => medicalServiceProvider; set => medicalServiceProvider = value; }
     public string MSPTCStatus1 { get => MSPTCStatus; set => MSPTCStatus = value; }
 }

@@ -8,14 +8,18 @@ public abstract class TreatmentCoverage
     int numberOfSpecialistsVisits;
 
 
-    protected TreatmentCoverage(string coverageID, string coverageDescription, int numberOfGeneralVisits, int numberOfSpecialistsVisits)
+    public TreatmentCoverage(string coverageID, string coverageDescription, int numberOfGeneralVisits, int numberOfSpecialistsVisits)
     {
         this.coverageID = coverageID;
         this.coverageDescription = coverageDescription;
         this.numberOfGeneralVisits = numberOfGeneralVisits;
         this.numberOfSpecialistsVisits = numberOfSpecialistsVisits;
     }
-    
+
+    public TreatmentCoverage()
+    {
+    }
+
 
     public string CoverageID { get => coverageID; set => coverageID = value; }
     public string CoverageDescription { get => coverageDescription; set => coverageDescription = value; }

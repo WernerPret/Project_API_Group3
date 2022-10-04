@@ -547,24 +547,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\werne\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\stolt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\werne\\OneDrive\\Desktop\\Belgium Campus\\3rd Year\\SEN381\\Project\\SEN381_API_Group3\\SEN381_API_Group3.csproj",
+      "projectUniqueName": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\SEN381_API_Group3.csproj",
       "projectName": "SEN381_API_Group3",
-      "projectPath": "C:\\Users\\werne\\OneDrive\\Desktop\\Belgium Campus\\3rd Year\\SEN381\\Project\\SEN381_API_Group3\\SEN381_API_Group3.csproj",
-      "packagesPath": "C:\\Users\\werne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\werne\\OneDrive\\Desktop\\Belgium Campus\\3rd Year\\SEN381\\Project\\SEN381_API_Group3\\obj\\",
+      "projectPath": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\SEN381_API_Group3.csproj",
+      "packagesPath": "C:\\Users\\stolt\\.nuget\\packages\\",
+      "outputPath": "C:\\Uni\\Uni\\SEN\\Project\\SEN381_API_Group3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\werne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\stolt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -601,7 +596,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -610,7 +606,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
