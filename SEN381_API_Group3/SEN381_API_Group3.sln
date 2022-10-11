@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEN381_API_Group3", "SEN381_API_Group3.csproj", "{256ED845-20B5-402E-8971-070A43051F34}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEN381_API_GROUP3", "SEN381_API_GROUP3\SEN381_API_GROUP3.csproj", "{BC37065E-C63E-414D-9AF3-BB5CD62CF125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{256ED845-20B5-402E-8971-070A43051F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{256ED845-20B5-402E-8971-070A43051F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{256ED845-20B5-402E-8971-070A43051F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{256ED845-20B5-402E-8971-070A43051F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC37065E-C63E-414D-9AF3-BB5CD62CF125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC37065E-C63E-414D-9AF3-BB5CD62CF125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC37065E-C63E-414D-9AF3-BB5CD62CF125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC37065E-C63E-414D-9AF3-BB5CD62CF125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8D7133-04E3-480C-B592-C6B8DE356C09}
 	EndGlobalSection
 EndGlobal
